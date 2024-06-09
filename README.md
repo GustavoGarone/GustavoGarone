@@ -9,5 +9,5 @@ My name's Gustavo, but you can call me Garone, Guga or Minze! I'm a freshman at 
 - 🎉 I really like engaging into silly little projects to improve my learning in a fun way.
 - 👊 Teamwork is #1.
 - 📨 You can mail me @ gustavo.garone@usp.br for Academic inquiries, or @ gustavogarone@protonmail.com for Business or anything else you'd like to talk about.
-
+- - - 
 - 🪩 I like art, gaming and am currently obsessed with Glass Beach and always with Yonkagor.
