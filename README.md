@@ -5,7 +5,7 @@ My name's Gustavo, but you can call me Garone, Guga or Minze! I'm a freshman at 
 
 I speak Portuguese and English fluently, and I can understand spanish.
 
-📨 You can mail me @ gustavo.garone@usp.br for academic inquiries, or @ gustavogarone@protonmail.com for business or anything else you'd like to talk about.
+📨 You can mail me at gustavo.garone@usp.br for academic inquiries, or at gustavogarone@protonmail.com for business or anything else you'd like to talk about.
 - - -
 
 - 🔵🔴🟢🟣 I’m currently learning [Julia](https://github.com/JuliaLang/julia), a great statistical and scientific programming language and, dare I say, some good competition to R and Python! 🐍
