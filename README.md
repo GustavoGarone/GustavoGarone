@@ -7,6 +7,7 @@ My name's Gustavo, but you can call me Garone, Guga or Minze! I'm a freshman at 
 - 🔵🔴🟢🟣 I’m currently learning Julia, a great statistical and scientific programming language and, dare I say, some good competition to R and Python! 🐍
 - ❄🐧❄ I'm into FLOSS and the GNU+Linux community. I use NixOS, by the way!
 - 🎉 I really like engaging into silly little projects to improve my learning in a fun way.
+- 🧾 I have an unhealthy obsession with notes and LaTeX. Markdown is your friend, and so it Mathjax!
 - 👊 Teamwork is #1.
 - 📨 You can mail me @ gustavo.garone@usp.br for Academic inquiries, or @ gustavogarone@protonmail.com for Business or anything else you'd like to talk about.
 - - - 
