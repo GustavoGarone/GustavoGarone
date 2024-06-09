@@ -11,7 +11,7 @@ I speak Portuguese and English fluently, and I can understand spanish.
 - 🔵🔴🟢🟣 I’m currently learning [Julia](https://github.com/JuliaLang/julia), a great statistical and scientific programming language and, dare I say, some good competition to R and Python! 🐍
 - ❄🐧❄ I'm into FLOSS and the GNU+Linux community. I use [NixOS](https://github.com/NixOS), by the way!
 - 🎉 I really like engaging in silly little projects to improve my learning in a fun way.
-- 🧾 I have an unhealthy obsession with notes and LaTeX. Markdown is your friend, and so it [Mathjax](https://github.com/mathjax/MathJax)!
+- 🧾 I have an unhealthy obsession with notes and LaTeX. Markdown is your friend, and so it [MathJax](https://github.com/mathjax/MathJax)!
   - 🔮 (Yes, that translates to "I'm an [Obsidian](https://github.com/obsidianmd) User")
 - 👊 Teamwork is #1.
 - - - 
