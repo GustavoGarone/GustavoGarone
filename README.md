@@ -2,6 +2,7 @@
 - - -
 
 My name's Gustavo, but you can call me Garone, Guga or Minze! I'm a freshman at the University of São Paulo studying statistics, although my background in computing has never left my heart.
+I speak Portuguese and English fluently, and I can understand spanish.
 - - -
 
 - 🔵🔴🟢🟣 I’m currently learning [Julia](https://github.com/JuliaLang/julia), a great statistical and scientific programming language and, dare I say, some good competition to R and Python! 🐍
