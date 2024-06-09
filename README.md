@@ -1,15 +1,15 @@
 ## Hello ! 🍃
 - - -
 
-My name's Gustavo, but you can call me Garone, Guga or Minze! I'm a freshman at University of São Paulo studying Statistics, although my background in computing has never left my heart.
+My name's Gustavo, but you can call me Garone, Guga or Minze! I'm a freshman at the University of São Paulo studying statistics, although my background in computing has never left my heart.
 - - -
 
 - 🔵🔴🟢🟣 I’m currently learning [Julia](https://github.com/JuliaLang/julia), a great statistical and scientific programming language and, dare I say, some good competition to R and Python! 🐍
 - ❄🐧❄ I'm into FLOSS and the GNU+Linux community. I use [NixOS](https://github.com/NixOS), by the way!
-- 🎉 I really like engaging into silly little projects to improve my learning in a fun way.
+- 🎉 I really like engaging in silly little projects to improve my learning in a fun way.
 - 🧾 I have an unhealthy obsession with notes and LaTeX. Markdown is your friend, and so it [Mathjax](https://github.com/mathjax/MathJax)!
   - 🔮 (Yes, that translates to "I'm an [Obsidian](https://github.com/obsidianmd) User")
 - 👊 Teamwork is #1.
-- 📨 You can mail me @ gustavo.garone@usp.br for Academic inquiries, or @ gustavogarone@protonmail.com for Business or anything else you'd like to talk about.
+- 📨 You can mail me @ gustavo.garone@usp.br for academic inquiries, or @ gustavogarone@protonmail.com for business or anything else you'd like to talk about.
 - - - 
-- 🪩 I like art, gaming and am currently obsessed with [Glass Beach](https://glassbeach.band/) and always with [YonKaGor](https://www.youtube.com/c/yonkagor).
+- 🪩 I like art and gaming and I am currently obsessed with [Glass Beach](https://glassbeach.band/) and always with [YonKaGor](https://www.youtube.com/c/yonkagor).
