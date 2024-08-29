@@ -11,7 +11,7 @@
 - ❄🐧❄ I'm into FLOSS and the GNU+Linux community. I use [NixOS](https://github.com/NixOS), by the way!
 - 🎉 I really like engaging in silly little projects to improve my learning in a fun way.
 - 🧾 I have an unhealthy obsession with notes and LaTeX. Markdown is your friend, and so it [MathJax](https://github.com/mathjax/MathJax)!
-  - 🔮 (Yes, that translates to "I'm an [Obsidian](https://github.com/obsidianmd) User")
-- 👊 Teamwork is #1.
+  - 🔮 (Yes, that translates to "I'm an [Obsidian](https://github.com/obsidianmd) and [Quarto](https://quarto.org/) User")
+- 🤝 I Like working in groups!
 - - - 
-- 🪩 I like art and gaming and I am currently obsessed with [Glass Beach](https://glassbeach.band/) and always with [YonKaGor](https://www.youtube.com/c/yonkagor).
+- 🪩 I like art and gaming and I am currently obsessed with [Vansire](https://www.vansiretheband.com/) and always with [YonKaGor](https://www.youtube.com/c/yonkagor).
