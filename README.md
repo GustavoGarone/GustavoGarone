@@ -14,4 +14,4 @@
   - 🔮 (Yes, that translates to "I'm an [Obsidian](https://github.com/obsidianmd) and [Quarto](https://quarto.org/) User")
 - 🤝 I Like working in groups!
 - - - 
-- 🪩 I like art and gaming and I am currently obsessed with [Vansire](https://www.vansiretheband.com/) and always with [YonKaGor](https://www.youtube.com/c/yonkagor).
+- 🪩 I like art and gaming and I am currently obsessed with [Car Seat Headrest](https://carseatheadrest.com/) and always with [YonKaGor](https://www.youtube.com/c/yonkagor).
