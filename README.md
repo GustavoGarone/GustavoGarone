@@ -10,8 +10,7 @@
 - 🔴🟢🟣 I’m currently learning [Julia](https://github.com/JuliaLang/julia), a great statistical and scientific programming language and, dare I say, some good competition to R and Python! 🐍
 - ❄🐧❄ I'm into FLOSS and the GNU+Linux community. I use [NixOS](https://github.com/NixOS), by the way!
 - 🎉 I really like engaging in small, silly projects to improve my learning in a fun way.
-- 🧾 I have an unhealthy obsession with notes and LaTeX. Markdown is your friend, and so it [MathJax](https://github.com/mathjax/MathJax)!
-  - 🔮 (Yes, that translates to "I'm an [Obsidian](https://github.com/obsidianmd) and [Quarto](https://quarto.org/) User")
+- 🧾 I have an unhealthy obsession with notes and LaTeX. Markdown is your friend, and so is [Quarto](https://quarto.org/)!
 - 🤝 I Like working in groups!
 - - - 
-- 🪩 I like art and gaming and I am currently obsessed with [Car Seat Headrest](https://carseatheadrest.com/) and always with [YonKaGor](https://www.youtube.com/c/yonkagor).
+- 🪩 I like art and gaming and I am currently obsessed with [Car Seat Headrest](https://carseatheadrest.com/).
