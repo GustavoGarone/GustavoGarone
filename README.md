@@ -8,7 +8,7 @@
 - - -
 
 - 🔴🟢🟣 I’m currently learning [Julia](https://github.com/JuliaLang/julia), a great scientific programming language that is, dare I say, some good competition to R and Python! 🐍
-- ❄🐧❄ I'm into FLOSS and I'm part of the GNU+Linux community. I use [NixOS](https://github.com/NixOS), by the way (checkout my system)!
+- ❄🐧❄ I'm into FLOSS and I'm part of the GNU+Linux community. I use [NixOS](https://github.com/NixOS), by the way ([checkout my system](https://github.com/GustavoGarone/minix))!
 - 🎉 I really like engaging in small, silly projects to improve my learning in a fun, hands-on way. You can find some of them in my repos.
 - 🧾 I have an unhealthy obsession with notes and LaTeX. Markdown is your friend, and so is [Quarto](https://quarto.org/).
 - 🤝 I Like working in groups! Have a cool idea that you'd like to work on with me? HMU!
