@@ -13,4 +13,4 @@
 - 🧾 I have an unhealthy obsession with notes and LaTeX. Markdown is your friend, and so is [Quarto](https://quarto.org/).
 - 🤝 I Like working in groups! Have a cool idea that you'd like to work on with me? HMU!
 - - - 
-- 🪩 I like art and gaming and I am currently obsessed with [Car Seat Headrest](https://carseatheadrest.com/).
+- 🪩 I like art and gaming and I am quite sad with Joe's Story.
