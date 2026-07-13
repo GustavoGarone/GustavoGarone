@@ -4,7 +4,7 @@
 
 🔠 I speak Portuguese and English fluently, and I can understand Spanish.
 
-📨 You can mail me at gustavo.garone@usp.br for academic inquiries, or at gustavogarone@protonmail.com for business or anything else you'd like to talk about.
+📨 You can mail me at gustavo.garone@usp.br for academic inquiries, or at contact@garone.me for business or anything else you'd like to talk about.
 - - -
 
 - 🔴🟢🟣 I advocate for [Julia](https://github.com/JuliaLang/julia), a great scientific programming language that is, dare I say, some good competition to R and Python! 
